@@ -4,7 +4,7 @@ Plugin Name: Teatro Extra View Modes
 Plugin URI: https://wp.teatromusicadosp.com.br/
 Description: Adds extra viewmodes to the Teatro project, using the Tainacan plugin as a base.
 Author: Teatro Musicado SP
-Version: 0.0.1
+Version: 1.0.0
 Text Domain: teatro-extra-viewmodes
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
